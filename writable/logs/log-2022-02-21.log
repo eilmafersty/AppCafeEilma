@@ -1,0 +1,436 @@
+CRITICAL - 2022-02-21 00:15:57 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 01:39:20 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 01:40:15 --> Argument 2 passed to view() must be of the type array, string given, called in C:\xampp\htdocs\app_cafe_cerilia\app\Controllers\UserController.php on line 16
+#0 C:\xampp\htdocs\app_cafe_cerilia\app\Controllers\UserController.php(16): view('userlist', '$data')
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-21 01:40:18 --> Argument 2 passed to view() must be of the type array, string given, called in C:\xampp\htdocs\app_cafe_cerilia\app\Controllers\UserController.php on line 16
+#0 C:\xampp\htdocs\app_cafe_cerilia\app\Controllers\UserController.php(16): view('userlist', '$data')
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-21 01:40:25 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 01:40:27 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 01:40:58 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 01:40:59 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 01:40:59 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 01:40:59 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 01:41:06 --> Argument 2 passed to view() must be of the type array, string given, called in C:\xampp\htdocs\app_cafe_cerilia\app\Controllers\UserController.php on line 16
+#0 C:\xampp\htdocs\app_cafe_cerilia\app\Controllers\UserController.php(16): view('userlist', '$data')
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-21 01:41:07 --> Argument 2 passed to view() must be of the type array, string given, called in C:\xampp\htdocs\app_cafe_cerilia\app\Controllers\UserController.php on line 16
+#0 C:\xampp\htdocs\app_cafe_cerilia\app\Controllers\UserController.php(16): view('userlist', '$data')
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-21 01:41:07 --> Argument 2 passed to view() must be of the type array, string given, called in C:\xampp\htdocs\app_cafe_cerilia\app\Controllers\UserController.php on line 16
+#0 C:\xampp\htdocs\app_cafe_cerilia\app\Controllers\UserController.php(16): view('userlist', '$data')
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-21 01:41:40 --> Argument 2 passed to view() must be of the type array, string given, called in C:\xampp\htdocs\app_cafe_cerilia\app\Controllers\UserController.php on line 16
+#0 C:\xampp\htdocs\app_cafe_cerilia\app\Controllers\UserController.php(16): view('userlist', '$data')
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-21 01:41:41 --> Argument 2 passed to view() must be of the type array, string given, called in C:\xampp\htdocs\app_cafe_cerilia\app\Controllers\UserController.php on line 16
+#0 C:\xampp\htdocs\app_cafe_cerilia\app\Controllers\UserController.php(16): view('userlist', '$data')
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-21 01:41:42 --> Argument 2 passed to view() must be of the type array, string given, called in C:\xampp\htdocs\app_cafe_cerilia\app\Controllers\UserController.php on line 16
+#0 C:\xampp\htdocs\app_cafe_cerilia\app\Controllers\UserController.php(16): view('userlist', '$data')
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-21 01:41:42 --> Argument 2 passed to view() must be of the type array, string given, called in C:\xampp\htdocs\app_cafe_cerilia\app\Controllers\UserController.php on line 16
+#0 C:\xampp\htdocs\app_cafe_cerilia\app\Controllers\UserController.php(16): view('userlist', '$data')
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-21 01:41:43 --> Argument 2 passed to view() must be of the type array, string given, called in C:\xampp\htdocs\app_cafe_cerilia\app\Controllers\UserController.php on line 16
+#0 C:\xampp\htdocs\app_cafe_cerilia\app\Controllers\UserController.php(16): view('userlist', '$data')
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-21 01:41:43 --> Argument 2 passed to view() must be of the type array, string given, called in C:\xampp\htdocs\app_cafe_cerilia\app\Controllers\UserController.php on line 16
+#0 C:\xampp\htdocs\app_cafe_cerilia\app\Controllers\UserController.php(16): view('userlist', '$data')
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-21 01:41:43 --> Argument 2 passed to view() must be of the type array, string given, called in C:\xampp\htdocs\app_cafe_cerilia\app\Controllers\UserController.php on line 16
+#0 C:\xampp\htdocs\app_cafe_cerilia\app\Controllers\UserController.php(16): view('userlist', '$data')
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-21 01:41:44 --> Argument 2 passed to view() must be of the type array, string given, called in C:\xampp\htdocs\app_cafe_cerilia\app\Controllers\UserController.php on line 16
+#0 C:\xampp\htdocs\app_cafe_cerilia\app\Controllers\UserController.php(16): view('userlist', '$data')
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-21 01:41:44 --> Argument 2 passed to view() must be of the type array, string given, called in C:\xampp\htdocs\app_cafe_cerilia\app\Controllers\UserController.php on line 16
+#0 C:\xampp\htdocs\app_cafe_cerilia\app\Controllers\UserController.php(16): view('userlist', '$data')
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-21 01:41:57 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 01:41:58 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 01:41:59 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 01:41:59 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 01:41:59 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 01:42:00 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 01:42:00 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 01:42:01 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 01:42:01 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 01:42:01 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 01:52:46 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 01:52:46 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 01:52:47 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 01:52:47 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 01:58:27 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 02:12:44 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 02:12:45 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 02:12:45 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 02:12:45 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 02:12:46 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 02:12:46 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 02:12:46 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 02:12:46 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 02:13:00 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 02:14:15 --> Argument 2 passed to view() must be of the type array, string given, called in C:\xampp\htdocs\app_cafe_cerilia\app\Controllers\UserController.php on line 16
+#0 C:\xampp\htdocs\app_cafe_cerilia\app\Controllers\UserController.php(16): view('userlist', '$data')
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-21 02:14:16 --> Argument 2 passed to view() must be of the type array, string given, called in C:\xampp\htdocs\app_cafe_cerilia\app\Controllers\UserController.php on line 16
+#0 C:\xampp\htdocs\app_cafe_cerilia\app\Controllers\UserController.php(16): view('userlist', '$data')
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-21 02:15:45 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 02:15:46 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 02:15:46 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 02:15:46 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 02:15:46 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 02:15:46 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 02:15:47 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 02:15:47 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 02:15:47 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 02:15:47 --> Class 'App\Model\UserModel' not found
+#0 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 05:31:06 --> Class "App\Model\UserModel" not found
+#0 E:\xampp\htdocs\app_cafe_cerilia_ukk\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 E:\xampp\htdocs\app_cafe_cerilia_ukk\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 E:\xampp\htdocs\app_cafe_cerilia_ukk\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\app_cafe_cerilia_ukk\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 E:\xampp\htdocs\app_cafe_cerilia_ukk\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-21 05:39:28 --> Class "App\Model\UserModel" not found
+#0 E:\xampp\htdocs\app_cafe_cerilia_ukk\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 E:\xampp\htdocs\app_cafe_cerilia_ukk\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 E:\xampp\htdocs\app_cafe_cerilia_ukk\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\app_cafe_cerilia_ukk\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 E:\xampp\htdocs\app_cafe_cerilia_ukk\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#5 {main}

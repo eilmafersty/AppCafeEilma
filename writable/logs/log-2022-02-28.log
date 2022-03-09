@@ -1,0 +1,6 @@
+CRITICAL - 2022-02-28 22:53:39 --> Class "Config\Filters\Auth" not found
+#0 E:\xampp\htdocs\app_cafe_cerilia_ukk\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+#1 E:\xampp\htdocs\app_cafe_cerilia_ukk\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 E:\xampp\htdocs\app_cafe_cerilia_ukk\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 E:\xampp\htdocs\app_cafe_cerilia_ukk\system\Commands\Server\rewrite.php(43): require_once('E:\\xampp\\htdocs...')
+#4 {main}

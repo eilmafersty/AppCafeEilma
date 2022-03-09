@@ -1,0 +1,32 @@
+ERROR - 2022-03-05 00:01:14 --> Duplicate entry '0' for key 'PRIMARY'
+CRITICAL - 2022-03-05 00:01:14 --> Duplicate entry '0' for key 'PRIMARY'
+#0 D:\xampp\htdocs\app_cafe_elma_ukk\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `tb...', 0)
+#1 D:\xampp\htdocs\app_cafe_elma_ukk\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 D:\xampp\htdocs\app_cafe_elma_ukk\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 D:\xampp\htdocs\app_cafe_elma_ukk\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 D:\xampp\htdocs\app_cafe_elma_ukk\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\app_cafe_elma_ukk\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 D:\xampp\htdocs\app_cafe_elma_ukk\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#7 D:\xampp\htdocs\app_cafe_elma_ukk\app\Controllers\PesananController.php(104): CodeIgniter\Model->insert(Array)
+#8 D:\xampp\htdocs\app_cafe_elma_ukk\system\CodeIgniter.php(825): App\Controllers\PesananController->simpan()
+#9 D:\xampp\htdocs\app_cafe_elma_ukk\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#10 D:\xampp\htdocs\app_cafe_elma_ukk\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\xampp\htdocs\app_cafe_elma_ukk\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 D:\xampp\htdocs\app_cafe_elma_ukk\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#13 {main}
+ERROR - 2022-03-05 00:09:07 --> Duplicate entry '0' for key 'PRIMARY'
+CRITICAL - 2022-03-05 00:09:07 --> Duplicate entry '0' for key 'PRIMARY'
+#0 D:\xampp\htdocs\app_cafe_elma_ukk\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `tb...', 0)
+#1 D:\xampp\htdocs\app_cafe_elma_ukk\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 D:\xampp\htdocs\app_cafe_elma_ukk\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 D:\xampp\htdocs\app_cafe_elma_ukk\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 D:\xampp\htdocs\app_cafe_elma_ukk\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\app_cafe_elma_ukk\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 D:\xampp\htdocs\app_cafe_elma_ukk\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#7 D:\xampp\htdocs\app_cafe_elma_ukk\app\Controllers\PesananController.php(104): CodeIgniter\Model->insert(Array)
+#8 D:\xampp\htdocs\app_cafe_elma_ukk\system\CodeIgniter.php(825): App\Controllers\PesananController->simpan()
+#9 D:\xampp\htdocs\app_cafe_elma_ukk\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesananController))
+#10 D:\xampp\htdocs\app_cafe_elma_ukk\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\xampp\htdocs\app_cafe_elma_ukk\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 D:\xampp\htdocs\app_cafe_elma_ukk\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#13 {main}

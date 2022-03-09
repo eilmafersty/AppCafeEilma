@@ -1,0 +1,80 @@
+CRITICAL - 2022-02-20 20:57:35 --> Too few arguments to function CodeIgniter\Router\RouteCollection::get(), 1 passed in C:\xampp\htdocs\app_cafe_cerilia\app\Config\Routes.php on line 35 and at least 2 expected
+#0 C:\xampp\htdocs\app_cafe_cerilia\app\Config\Routes.php(35): CodeIgniter\Router\RouteCollection->get('/')
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(706): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-20 20:58:11 --> Too few arguments to function CodeIgniter\Router\RouteCollection::get(), 1 passed in C:\xampp\htdocs\app_cafe_cerilia\app\Config\Routes.php on line 35 and at least 2 expected
+#0 C:\xampp\htdocs\app_cafe_cerilia\app\Config\Routes.php(35): CodeIgniter\Router\RouteCollection->get('/')
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(706): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-20 20:58:12 --> Too few arguments to function CodeIgniter\Router\RouteCollection::get(), 1 passed in C:\xampp\htdocs\app_cafe_cerilia\app\Config\Routes.php on line 35 and at least 2 expected
+#0 C:\xampp\htdocs\app_cafe_cerilia\app\Config\Routes.php(35): CodeIgniter\Router\RouteCollection->get('/')
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(706): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-20 20:58:13 --> Too few arguments to function CodeIgniter\Router\RouteCollection::get(), 1 passed in C:\xampp\htdocs\app_cafe_cerilia\app\Config\Routes.php on line 35 and at least 2 expected
+#0 C:\xampp\htdocs\app_cafe_cerilia\app\Config\Routes.php(35): CodeIgniter\Router\RouteCollection->get('/')
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(706): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-20 20:58:13 --> Too few arguments to function CodeIgniter\Router\RouteCollection::get(), 1 passed in C:\xampp\htdocs\app_cafe_cerilia\app\Config\Routes.php on line 35 and at least 2 expected
+#0 C:\xampp\htdocs\app_cafe_cerilia\app\Config\Routes.php(35): CodeIgniter\Router\RouteCollection->get('/')
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(706): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-20 20:58:13 --> Too few arguments to function CodeIgniter\Router\RouteCollection::get(), 1 passed in C:\xampp\htdocs\app_cafe_cerilia\app\Config\Routes.php on line 35 and at least 2 expected
+#0 C:\xampp\htdocs\app_cafe_cerilia\app\Config\Routes.php(35): CodeIgniter\Router\RouteCollection->get('/')
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(706): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-20 20:58:13 --> Too few arguments to function CodeIgniter\Router\RouteCollection::get(), 1 passed in C:\xampp\htdocs\app_cafe_cerilia\app\Config\Routes.php on line 35 and at least 2 expected
+#0 C:\xampp\htdocs\app_cafe_cerilia\app\Config\Routes.php(35): CodeIgniter\Router\RouteCollection->get('/')
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(706): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-20 21:12:40 --> Too few arguments to function CodeIgniter\Router\RouteCollection::get(), 1 passed in C:\xampp\htdocs\app_cafe_cerilia\app\Config\Routes.php on line 35 and at least 2 expected
+#0 C:\xampp\htdocs\app_cafe_cerilia\app\Config\Routes.php(35): CodeIgniter\Router\RouteCollection->get('/')
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(706): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-20 21:12:47 --> Too few arguments to function CodeIgniter\Router\RouteCollection::get(), 1 passed in C:\xampp\htdocs\app_cafe_cerilia\app\Config\Routes.php on line 35 and at least 2 expected
+#0 C:\xampp\htdocs\app_cafe_cerilia\app\Config\Routes.php(35): CodeIgniter\Router\RouteCollection->get('/')
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(706): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-20 21:12:48 --> Too few arguments to function CodeIgniter\Router\RouteCollection::get(), 1 passed in C:\xampp\htdocs\app_cafe_cerilia\app\Config\Routes.php on line 35 and at least 2 expected
+#0 C:\xampp\htdocs\app_cafe_cerilia\app\Config\Routes.php(35): CodeIgniter\Router\RouteCollection->get('/')
+#1 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(706): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\app_cafe_cerilia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_cafe_cerilia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_cafe_cerilia\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
